@@ -37,8 +37,9 @@ Body example: {
         "description": "ROOSTER",
         "courses": null
     }
+    
 
-
+---------------
 ##### Delete specific student
 
 DELETE: localhost:8083/delete/student/{studentId}
